@@ -1,5 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Gustavo Pereira</h1>
-<h3 align="center">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSP Campinas e estagiando na Unicamp. Meu interesse por tecnologia e programação começou em 2023 e, desde então, me fascino com as possibilidades que as tecnologias oferecem para facilitar a vida das pessoas. Estou buscando sempre aprimorar minhas habilidades para conseguir uma progressão na carreira de TI.</h3>
+<h1 align="center">Hi 👋, I'm Gustavo Pereira</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
