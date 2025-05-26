@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Pereira;I'm+a+Software+Engineering+student;To+find+out+more+about+me,+click+on+the+button+below;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://gustavopgcampos.github.io/Linktree-Rocketseat/">
+  <a href="https://gustavopgcampos.github.io/Linktree-Rocketseat/" target="_blank">
   <img src="https://img.shields.io/badge/Connect%20with%20me-green?style=for-the-badge" />
   </a>
 </p>
