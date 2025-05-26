@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Gustavo Pereira</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=header"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gustavo-pereira-gon%C3%A7alves-de-campos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/gustavo-pereira-gon%c3%a7alves-de-campos/](https://www.linkedin.com/in/gustavo-pereira-gon%C3%A7alves-de-campos/)" height="30" width="40" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Pereira;I'm+a+Software+Engineering+student;To+find+out+more+about+me,+click+on+the+button+below;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://gustavopgcampos.github.io/Linktree-Rocketseat/">
+  <img src="https://img.shields.io/badge/Connect%20with%20me-green?style=for-the-badge" />
+  </a>
 </p>
 
-<h1 align="center">My Skills</h1>
 
-<div align="left">
+<h2 align="center">🛠 &nbsp;Languages & Techs</h2>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
@@ -29,4 +33,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
